@@ -27,7 +27,7 @@ export default class Education extends Component{
                                                             <div className="row">
                                                                 <div className="col-md-12">
                                                                     <p>  
-                                                                        I am expecting to graduate with an Undergraduate Integrated Master's Degree from University of Manchester in June 2023.
+                                                                        I am expecting to graduate with an Undergraduate Integrated Master's Degree from University of Manchester in June 2024.
                                                                     </p>
                                                                     <p>
                                                                         Courses I have taken so far:<br/>
@@ -55,8 +55,8 @@ export default class Education extends Component{
                                                                         A Levels<br/>
                                                                         <ul>
                                                                             <li>Mathematics - A<sup>*</sup></li>
-                                                                            <li>Further Mathematics - A<sup>*</sup></li>
-                                                                            <li>Physics - A<sup>*</sup></li>
+                                                                            <li>Further Mathematics - A</li>
+                                                                            <li>Physics - A</li>
                                                                         </ul>
                                                                         <br/>
                                                                         SAT Subject Tests<br/>
