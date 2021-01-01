@@ -11,6 +11,20 @@
 *	Edit this section
 *
 * ======================================================= */
+#particles-js{
+  width: 100%;
+  height: 100%;
+  background-color: #06068c;
+  background-image: url('');
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+canvas{
+  display:block;
+  vertical-align:bottom;
+}
+
 body {
   font-family: "Quicksand", Arial, sans-serif;
   font-weight: 400;
