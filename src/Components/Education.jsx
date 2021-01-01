@@ -51,15 +51,15 @@ export default class Education extends Component{
                                                         <div className="panel-body">
                                                             <div className="row">
                                                                 <div className="col-md-12">
+                                                                    <p>I have managed to finish all exams within 1.5 years under the guidance of Dr.Zaw Wai.</p>
                                                                     <p>
-                                                                        A Levels<br/>
+                                                                        A Levels
                                                                         <ul>
                                                                             <li>Mathematics - A<sup>*</sup></li>
                                                                             <li>Further Mathematics - A</li>
                                                                             <li>Physics - A</li>
                                                                         </ul>
-                                                                        <br/>
-                                                                        SAT Subject Tests<br/>
+                                                                        SAT Subject Tests
                                                                         <ul>
                                                                             <li>Mathematics Level II - 800</li>
                                                                             <li>Chemistry - 800</li>
