@@ -1589,9 +1589,9 @@ body.offcanvas {
   margin: 20px auto;
   font-size: 60px;
 }
-.user p {
+/* .user p {
   font-size: 16px;
-}
+} */
 @media only screen and (min-width:768px) {
   .user {
   font-size: 75px;
@@ -1612,13 +1612,13 @@ body.offcanvas {
 .user-projects h5, body {
   margin: 0;
 }
-.user-projects li {
+/* .user-projects li {
   color: #1a222c;
   font-size: 1.1rem;
-}
-.user-projects p {
+} */
+/* .user-projects p {
   margin-right: 5px;
-}
+} */
 @media only screen and (min-width:768px) {
   .images {
   float: right;

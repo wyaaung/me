@@ -29,20 +29,20 @@ export default class Technical extends Component{
                     </div>
                 </div> */}
                 <div className="row user">
-                <div className="four columns">
-                    <h5>Programming Langauges</h5>
+                <div className="col-md-4">
+                    <h3>Programming Langauges</h3>
                     <i className="devicon-python-plain-wordmark colored"/>
                     <i className="devicon-cplusplus-line-wordmark colored"/>
                     <i className="devicon-javascript-plain colored"/>
                     <i className="devicon-java-plain-wordmark colored"></i>
                 </div>
-                <div className="four columns">
-                    <h5>Frameworks</h5>
+                <div className="col-md-4">
+                    <h3>Frameworks</h3>
                     <i className="devicon-django-line-wordmark colored"></i>
                     <i className="devicon-react-original colored"></i>
                 </div>
-                <div className="four columns">
-                    <h5>Developer Tools</h5>
+                <div className="col-md-4">
+                    <h3>Developer Tools</h3>
                     <i className="devicon-gitlab-plain colored"></i>
                     <i className="devicon-visualstudio-plain colored"></i>
                 </div>
