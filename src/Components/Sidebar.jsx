@@ -4,7 +4,7 @@ export default class Sidebar extends Component{
     render(){
         return(
             <div id="Sidebar">
-                <nav href="#navbar" className="js-colorlib-nav-toggle colorlib-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i /></nav>
+                <nav href="#navbar" className="js-colorlib-nav-toggle colorlib-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-controls="navbar"><i /></nav>
                 <aside id="colorlib-aside" className="border js-fullheight">
                     <div className="text-center">
                     <div className="author-img" style={{backgroundImage: 'url(images/Profile.jpg)'}} />
@@ -15,6 +15,7 @@ export default class Sidebar extends Component{
                         <ul>
                         <li className="active"><a href="#introduction" data-nav-section="introduction">Introduction</a></li>
                         <li><a href="#education" data-nav-section="education">Education</a></li>
+                        <li><a href="#technical" data-nav-section="technical">Technical Skills</a></li>
                         </ul>
                     </div>
                     </nav>

@@ -3,7 +3,6 @@ import React, { Component } from 'react';
 export default class Education extends Component{
     render(){
         return(
-            <div>
                 <section className="colorlib-education" data-section="education">
                     <div className="colorlib-narrow-content">
                         <div className="row">
@@ -80,7 +79,6 @@ export default class Education extends Component{
                     </div>
                 </section>
                 
-            </div>
         )
     }
 }

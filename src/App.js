@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import Sidebar from "./Components/Sidebar";
 import Introduction from "./Components/Introduction"
 import Education from "./Components/Education"
+import Technical from "./Components/Technical Skills"
 
 class App extends Component{
   render(){
@@ -12,6 +13,7 @@ class App extends Component{
         <div id="colorlib-main">
           <Introduction></Introduction>
           <Education></Education>
+          <Technical></Technical>
         </div>
         </div>
       </div>
