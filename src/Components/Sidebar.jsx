@@ -27,6 +27,7 @@ export default class Sidebar extends Component{
                         <li><a href="https://www.facebook.com/waiyanaung.k8/" target="_blank" rel="noopener noreferrer"><i className="icon-facebook2"/></a></li>
                     </ul>
                 </nav>
+                <div className="colorlib-footer"></div>
                 </aside>
             </div>
         )
