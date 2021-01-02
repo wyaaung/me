@@ -15,7 +15,7 @@ export default class Education extends Component{
                             <div className="col-md-12 animate-box" data-animate-effect="fade-right">
                                 <div className="fancy-collapse-panel">
                                     <div className="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-                                        <div className="panel panel-default">
+
                                             <div className="panel panel-default">
                                                 <div className="panel panel-default">
                                                     <div className="panel-heading" role="tab" id="heading0">
@@ -42,7 +42,7 @@ export default class Education extends Component{
                                                         </div>
                                                     </div>
                                                 </div>
-                                                    <div className="panel panel-default">
+                                                <div className="panel panel-default">
                                                     <div className="panel-heading" role="tab" id="heading1">
                                                         <h4 className="panel-title"><a className="collapsed" data-toggle="collapse" data-parent="accordion" href="#collapse1" aria-expanded="false" aria-controls="collapse1">A Levels, IGCSEs, and SAT</a></h4>
                                                     </div>
@@ -75,7 +75,7 @@ export default class Education extends Component{
                                     </div>
                                 </div>
                             </div>
-                        </div>
+
                     </div>
                 </section>
                 

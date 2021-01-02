@@ -35,11 +35,14 @@ export default class Technical extends Component{
                     <i className="devicon-cplusplus-line-wordmark colored"/>
                     <i className="devicon-javascript-plain colored"/>
                     <i className="devicon-java-plain-wordmark colored"></i>
+                    <i class="devicon-html5-plain-wordmark colored"></i>
+                    <i class="devicon-mysql-plain-wordmark colored"></i>
+                    <i class="devicon-bootstrap-plain-wordmark colored"></i>
                 </div>
                 <div className="col-md-4">
                     <h3>Frameworks</h3>
-                    <i className="devicon-django-line-wordmark colored"></i>
                     <i className="devicon-react-original colored"></i>
+                    <i className="devicon-django-line-wordmark colored"></i>
                 </div>
                 <div className="col-md-4">
                     <h3>Developer Tools</h3>
