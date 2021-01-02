@@ -12,7 +12,7 @@ export default class Education extends Component{
                             </div>
                         </div>
                         <div className="row">
-                            <div className="col-md-12 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
+                            <div className="col-md-12 animate-box" data-animate-effect="fade-right">
                                 <div className="fancy-collapse-panel">
                                     <div className="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                                         <div className="panel panel-default">

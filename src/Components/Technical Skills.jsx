@@ -28,7 +28,7 @@ export default class Technical extends Component{
                         </div>
                     </div>
                 </div> */}
-                <div className="row user">
+                <div className="row user animate-box" data-animate-effect="fade-right">
                 <div className="col-md-4">
                     <h3>Programming Langauges</h3>
                     <i className="devicon-python-plain-wordmark colored"/>
