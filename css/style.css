@@ -1589,12 +1589,11 @@ body.offcanvas {
   margin: 20px auto;
   font-size: 60px;
 }
-/* .user p {
+.user p {
   font-size: 16px;
-} */
+}
 @media only screen and (min-width:768px) {
   .user {
-  font-size: 75px;
 }
 }.user-details {
   text-align: center;
